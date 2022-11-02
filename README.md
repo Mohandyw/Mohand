@@ -6,5 +6,5 @@
 
 ```(How)```
 
-![Screenshot (195)](https://user-images.githubusercontent.com/99893905/154524562-a351883a-1ebf-4f21-9a90-34a36595039e.png)
+
 
